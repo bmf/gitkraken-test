@@ -1,3 +1,11 @@
 this is a test file.
 
 This is a change to the file.
+
+<<<<<<< HEAD
+master change.
+=======
+branch1 changes.
+
+additional branch1 changes.
+>>>>>>> branch1
